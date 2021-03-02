@@ -1,9 +1,9 @@
 # Go CDK URL opener for awsdynamo with consistency read option.
 
-## NOTICE
-This opener will be deprecated if our PR to go CDK is accepted and released.
+## DEPRECATION NOTICE
+This opener is deprecated.
 
-https://github.com/google/go-cloud/issues/2928
+Please use [Go CDK](https://github.com/google/go-cloud) with consistent_read option which is available from [v0.22.0](https://github.com/google/go-cloud/releases/tag/v0.22.0).
 
 ## Usage
 
